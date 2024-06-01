@@ -17,7 +17,7 @@ So, I designed an android app which alerts the user when phone comes closer more
 - Android 
 - OpenCV
 
-[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
+[![Watch the video]([https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg](https://github.com/Himani-Trivedi/face_distance_final_2/blob/main/SafeView_Logo.jpg))](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
     
 
 
